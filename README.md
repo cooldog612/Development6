@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
-https://cooldog612.github.io/Development
+https://cooldog612.github.io/Development6
 ### Goal and Value of the Application
 My goal was to help students apply to college! I remember for me it was very difficult for me to know what colleges had
 what kind of requirements so I created a website that will help filter, sort and display colleges based on their requirements,
