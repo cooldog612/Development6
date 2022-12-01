@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #b3c8f0;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,46 @@
   to {
     transform: rotate(360deg);
   }
+}
+.blue-container{
+  display: flex;
+  align-items: center;
+  background-color: #b281db;
+  flex-direction:column;
+  border-radius: 15px;
+  width: 30vw;
+  margin: 10px;
+}
+.cart-container{
+display: flex;
+align-items: center;
+background-color: #b281db;
+flex-direction:column;
+border-radius: 15px;
+width: 30vw;
+margin-right: 100px;
+}
+
+.big-container{
+display: flex;
+flex-direction:row;
+flex-wrap: wrap;
+}
+.giant-container{
+display: flex;
+flex-direction:row;
+column-count: 2;
+
+}
+.title {
+font-size: 3vh;
+color: aliceblue;
+}
+.header {
+  font-size: 5vh;
+
+  }
+.pic{
+width: 20vw;
+height: 15vh
 }
